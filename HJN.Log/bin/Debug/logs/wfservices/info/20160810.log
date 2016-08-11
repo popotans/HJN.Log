@@ -1,0 +1,43 @@
+2016-08-10 17:24:37,336 [1] INFO  info is now 
+2016-08-10 17:25:19,724 [1] INFO  info is now 
+2016-08-10 17:27:32,628 [1] INFO  info is now 
+2016-08-10 17:27:32,668 [1] INFO  MyLogWrapper.CustomLogMsg
+2016-08-10 17:28:52,877 [1] INFO  info is now 
+2016-08-10 17:28:52,977 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: adas
+2016-08-10 17:28:58,836 [1] INFO  info is now 
+2016-08-10 17:28:58,875 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: adas
+2016-08-10 17:30:25,335 [1] INFO  info is now 
+2016-08-10 17:30:25,376 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: adas
+2016-08-10 17:30:42,968 [1] INFO  info is now 
+2016-08-10 17:30:43,007 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: adas
+2016-08-10 17:31:46,265 [1] INFO  info is now 
+2016-08-10 17:31:46,304 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: adas
+2016-08-10 17:32:22,964 [1] INFO  info is now 
+2016-08-10 17:32:23,002 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: adas
+2016-08-10 17:34:56,905 [1] INFO  info is now 
+2016-08-10 17:34:56,943 [1] INFO  MyLogWrapper.CustomLogMsg
+2016-08-10 17:36:16,595 [1] INFO  info is now 
+2016-08-10 17:36:16,633 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: asdasdasasdasdas
+2016-08-10 17:36:46,332 [1] INFO  info is now 
+2016-08-10 17:36:46,369 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: asdasdasasdasdas
+2016-08-10 17:37:34,115 [1] INFO  info is now 
+2016-08-10 17:37:34,154 [1] INFO  MyLogWrapper.CustomLogMsg
+System.Exception: asdasdasasdasdas
+2016-08-10 17:39:34,965 [1] INFO  info is now 
+2016-08-10 17:40:12,820 [1] INFO  info is now 
+2016-08-10 17:40:30,801 [1] INFO  info is now 
+2016-08-10 17:40:30,840 [1] INFO  MyLogWrapper.CustomLogMsg
+System.DivideByZeroException: 尝试除以零。
+   在 MyLogWrapper.Program.Main(String[] args) 位置 j:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\Program.cs:行号 58
+2016-08-10 17:47:46,996 [1] INFO  info is now 
+2016-08-10 17:47:47,037 [1] INFO  HJN.Log.CustomLogMsg
+System.DivideByZeroException: 尝试除以零。
+   在 HJN.Log.Program.Main(String[] args) 位置 i:\git\HJN.Log\HJN.Log\Program.cs:行号 57

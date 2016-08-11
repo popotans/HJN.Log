@@ -1,0 +1,10 @@
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\HJN.Log.ConsoleTest.exe
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\HJN.Log.ConsoleTest.pdb
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\log4net.dll
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\HJN.Log.pdb
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\log4net.xml
+I:\git\HJN.Log\HJN.Log.Console\obj\Debug\HJN.Log.ConsoleTest.csprojResolveAssemblyReference.cache
+I:\git\HJN.Log\HJN.Log.Console\obj\Debug\HJN.Log.ConsoleTest.exe
+I:\git\HJN.Log\HJN.Log.Console\obj\Debug\HJN.Log.ConsoleTest.pdb
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\HJN.Log.ConsoleTest.exe.config
+I:\git\HJN.Log\HJN.Log.Console\bin\Debug\HJN.Log.dll

@@ -1,0 +1,8 @@
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\MyLog4NetWrapper.exe.config
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\MyLog4NetWrapper.exe
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\MyLog4NetWrapper.pdb
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\log4net.dll
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\log4net.xml
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\obj\Debug\MyLog4NetWrapper.csprojResolveAssemblyReference.cache
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\obj\Debug\MyLog4NetWrapper.exe
+J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\obj\Debug\MyLog4NetWrapper.pdb
