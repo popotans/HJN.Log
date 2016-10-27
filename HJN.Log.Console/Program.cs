@@ -36,10 +36,11 @@ namespace HJN.Log.ConsoleTest
             Console.WriteLine(sw.Elapsed);
 
             CustomLogMsg clm = new CustomLogMsg().CreateMsg("这是消息" + Guid.NewGuid());
-
+            logger.Debug("debug");
             for (int i = 0; i < 200; i++)
             {
                 Console.WriteLine(i);
+               // logger.Info("begin " + i);
                 try
                 {
                     int df = 5;
@@ -48,7 +49,7 @@ namespace HJN.Log.ConsoleTest
                 }
                 catch (Exception ee)
                 {
-                    logger.Error(clm, ee);
+                   // logger.Error(clm, ee);
                 }
             }
 

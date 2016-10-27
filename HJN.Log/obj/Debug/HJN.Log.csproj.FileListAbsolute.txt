@@ -1,6 +1,0 @@
-I:\git\HJN.Log\HJN.Log\bin\Debug\HJN.Log.pdb
-I:\git\HJN.Log\HJN.Log\bin\Debug\log4net.dll
-I:\git\HJN.Log\HJN.Log\bin\Debug\log4net.xml
-I:\git\HJN.Log\HJN.Log\obj\Debug\HJN.Log.pdb
-I:\git\HJN.Log\HJN.Log\bin\Debug\HJN.Log.dll
-I:\git\HJN.Log\HJN.Log\obj\Debug\HJN.Log.dll

@@ -1,7 +1,0 @@
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\MyLogWrapper.exe.config
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\MyLogWrapper.exe
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\MyLogWrapper.pdb
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\log4net.dll
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\bin\Debug\log4net.xml
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\obj\Debug\MyLogWrapper.exe
-J:\njhdisk\ProjectStudy\MyLog4NetWrapper\MyLog4NetWrapper\obj\Debug\MyLogWrapper.pdb
