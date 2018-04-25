@@ -33,7 +33,7 @@ namespace HJN.Log
             return lp;
         }
 
-        public HJN.Log.DBAppenderParam CreaterDbAppender(List<DBAppenderCommandTextColumn> ColList, string tableName, string connectionType, string connectionString)
+        public DBAppenderParam CreaterDbAppender(List<DBAppenderCommandTextColumn> ColList, string tableName, string connectionType, string connectionString)
         {
 
             for (int ii = 0; ii < ColList.Count; ii++)

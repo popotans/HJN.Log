@@ -20,9 +20,9 @@ namespace HJN.Log.ConsoleTest
             List<DBAppenderCommandTextColumn> collist = new List<DBAppenderCommandTextColumn>();
             collist.Add(new DBAppenderCommandTextColumn() { ParameterName = "IP", DbType = "string", ConversionPattern = "" });
 
-            string conn1 = "server=10.97.178.251;database=CNblogs;User Id=sa;Password=niejunhua;";
+            string conn1 = "server=10.98.72.31;database=CNblogs;User Id=sa;Password=niejunhua;";
             conn1 = "server=localhost;database=hjntest;User Id=root;Password=;Charset=utf8";
-
+            
             LoggerParam lp3 = new LoggerParam("wfservices") { UseFile = true };
             lp3.DBAppenderParam = lp3.CreaterDbAppender(collist, "log4net", LoggerParam.ConnectionType_MySql, conn1);
 
@@ -40,7 +40,7 @@ namespace HJN.Log.ConsoleTest
             for (int i = 0; i < 200; i++)
             {
                 Console.WriteLine(i);
-               // logger.Info("begin " + i);
+                // logger.Info("begin " + i);
                 try
                 {
                     int df = 5;
@@ -49,7 +49,7 @@ namespace HJN.Log.ConsoleTest
                 }
                 catch (Exception ee)
                 {
-                   // logger.Error(clm, ee);
+                    // logger.Error(clm, ee);
                 }
             }
 
